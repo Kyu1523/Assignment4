@@ -2,7 +2,7 @@
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kyu1523.github.io/hw4",
+  "homepage": "https://kyu1523.github.io/Assignment4/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
